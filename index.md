@@ -7,7 +7,7 @@ Please consider emailing us on this email : nk.loop2020@gmail.com
 
 #### In case you have problems,crashing, errors in Looper:
 
-.Please consider mentioninig the exact loction of the problem: Like the home-page, registration page. etc..
+.Please consider mentioninig the exact location of the problem: Like the home-page, registration page. etc..
 .Specify exactly which Feature doesn't work.
 .How many times does the case appear or happen: once or many.
 
