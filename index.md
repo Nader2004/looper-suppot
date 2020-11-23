@@ -3,34 +3,21 @@
 This is the official Page for Looper support. In case there is any Issues , Problems or questions :
 
 Please consider emailing us on this email : nk.loop2020@gmail.com
-### Markdown
+### Important notes when e-mailing us:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### In case you have problems,crashing, errors in Looper:
 
-```markdown
-Syntax highlighted code block
+.Please consider mentioninig the exact loction of the problem: Like the home-page, registration page. etc..
+.Specify exactly which Feature doesn't work.
+.How many times does the case appear or happen: once or many.
 
-# Header 1
-## Header 2
-### Header 3
+#### In case you have questions or need help : 
 
-- Bulleted
-- List
+.Describe your question accuratly and where does in Looper does it belong.
 
-1. Numbered
-2. List
+#### In case of Feedback : 
+.If negative , please specify the feature or the case that annoys and we will take a look about it.
+.If positive, please specify what feature you like about the app, so we can work on improving it.
+.If adding a new feature, specify your wish and we're gonna take a look about it.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nader2004/looper-suppot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###THANK YOU !
